@@ -1,0 +1,66 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch CircleRadius",
+      "request": "launch",
+      "mainClass": "CircleRadius",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "chap3_4_d2ab208"
+    },
+    {
+      "type": "java",
+      "name": "Launch RandomNumber",
+      "request": "launch",
+      "mainClass": "RandomNumber",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "chap3_4_d2ab208"
+    },
+    {
+      "type": "java",
+      "name": "Launch FourImage",
+      "request": "launch",
+      "mainClass": "FourImage",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "chap3_4_d2ab208"
+    },
+    {
+      "type": "java",
+      "name": "Launch NameAngle",
+      "request": "launch",
+      "mainClass": "NameAngle",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "chap3_4_d2ab208"
+    },
+    {
+      "type": "java",
+      "name": "Launch Target",
+      "request": "launch",
+      "mainClass": "Target",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "chap3_4_d2ab208"
+    },
+    {
+      "type": "java",
+      "name": "Launch SnowmanAlt",
+      "request": "launch",
+      "mainClass": "SnowmanAlt",
+      "projectName": "chap3_4_d2ab208",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Launch Snowman",
+      "request": "launch",
+      "mainClass": "Snowman",
+      "projectName": "chap3_4_d2ab208"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": "SnowmanAlt",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml"
+    }
+  ]
+}

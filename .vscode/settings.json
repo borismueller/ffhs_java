@@ -1,0 +1,12 @@
+{
+  "java.project.sourcePaths": [
+    "4_7",
+    "4_6",
+    "4_3",
+    "4_2",
+    ""
+  ],
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ]
+}
