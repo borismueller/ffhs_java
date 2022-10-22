@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Block3",
+      "request": "launch",
+      "mainClass": "Block3",
+      "projectName": "chap3_4_d2ab208"
+    },
+    {
+      "type": "java",
       "name": "Launch CircleRadius",
       "request": "launch",
       "mainClass": "CircleRadius",
