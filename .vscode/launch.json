@@ -2,6 +2,121 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Even",
+      "request": "launch",
+      "mainClass": "Even",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise",
+      "request": "launch",
+      "mainClass": "JAVA_3.exercise",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Skyline",
+      "request": "launch",
+      "mainClass": "Skyline",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch SphereInput",
+      "request": "launch",
+      "mainClass": "SphereInput",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch CoolCircle",
+      "request": "launch",
+      "mainClass": "CoolCircle",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch RandomManyCircles",
+      "request": "launch",
+      "mainClass": "RandomManyCircles",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch RandomNumber",
+      "request": "launch",
+      "mainClass": "RandomNumber",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch BasicShapes",
+      "request": "launch",
+      "mainClass": "BasicShapes",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Chapter2",
+      "request": "launch",
+      "mainClass": "Chapter2",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch RandomCircle",
+      "request": "launch",
+      "mainClass": "RandomCircle",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Target",
+      "request": "launch",
+      "mainClass": "Target",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch NameAngle",
+      "request": "launch",
+      "mainClass": "NameAngle",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch FourImage",
+      "request": "launch",
+      "mainClass": "FourImage",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
+      "name": "Launch CircleRadius",
+      "request": "launch",
+      "mainClass": "CircleRadius",
+      "vmArgs": "--module-path ./lib/ --add-modules=javafx.controls,javafx.fxml",
+      "projectName": "ffhs_java_540c792f"
+    },
+    {
+      "type": "java",
       "name": "Launch CircleRadius",
       "request": "launch",
       "mainClass": "CircleRadius",
